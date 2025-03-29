@@ -1,3 +1,4 @@
+import React from 'react';
 import { useAuth } from "@/hooks/use-auth";
 import { Home, BookOpen, SmilePlus, Music, BarChart2, Sparkles, Settings } from "lucide-react";
 import { Link, useLocation } from "wouter";
